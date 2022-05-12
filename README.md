@@ -1,1 +1,1 @@
-# Fire Detection using Yolov3
+# Detection-of-People-near-Fire-using-Yolov3
